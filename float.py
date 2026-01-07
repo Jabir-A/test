@@ -10,3 +10,4 @@ print(f"Value of y is: {y}")
 print(f"Type of y is {type(y)}")
 
 print()
+print()
