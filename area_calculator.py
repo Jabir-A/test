@@ -19,6 +19,7 @@ base = 2
 
 zero = 0
 print()
+print()
 
 # This does not work
 # print(base + power * zero)
